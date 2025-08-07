@@ -205,3 +205,15 @@ To maximize value, add **Collector Nodes** to your Synaptron machine:
 
 ---
 
+
+## 🙋 Community & Support
+
+* 💬 Ask questions in the [**GeoCore Discord Channel**](https://discord.com/channels/946982023245992006)
+* 🛠️ Get help in [**#support**](https://discord.com/channels/946982023245992006/1179427377844068493)
+* 📚 Generic Flux help: [**RunOnFlux Help Center**](https://help.runonflux.io/)
+* 🧾 Submit a ticket via [**Flux Support Portal**](https://support.runonflux.io/support/home)
+
+---
+
+**Built with 🧠 by the Timpi community**
+*Empowering a faster, fairer, and decentralized internet 🌍*
