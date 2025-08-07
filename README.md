@@ -209,7 +209,7 @@ This guide covers two separate methods for deploying Timpi Nodes:
 <img width="1916" height="987" alt="image12" src="https://github.com/user-attachments/assets/c48a6647-940d-4b32-b284-bccc24733bdd" />
 
 
-3. Navigate to the **Account Overview** using the left handed menu to deposit funds. We support PayPal, Credit Cards, or Flux. If you deposit via Flux you will receive a 5% bonus.
+3. Navigate to the Account Overview using the left handed menu to deposit funds. FluxEdge supports PayPal, Credit Cards, or Flux. If you deposit via Flux you will receive a 5% bonus.
 
 <img width="1606" height="932" alt="image14" src="https://github.com/user-attachments/assets/9e4c56b8-8dbe-4380-8339-0be696dc5bf2" />
 
