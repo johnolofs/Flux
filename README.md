@@ -115,7 +115,8 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
    * Click **Save**.
 
-<img width="1916" height="988" alt="image11" src="https://github.com/user-attachments/assets/ed7773d7-68fb-478d-abb1-1d9919957dd7" />
+<img width="1558" height="938" alt="image5 (1)" src="https://github.com/user-attachments/assets/91e3f515-7e75-47ba-a2d1-c72e510469ac" />
+
 
 5. **Start Indexing**
 
@@ -124,7 +125,8 @@ This guide covers two separate methods for deploying Timpi Nodes:
    * Your node should now begin indexing pages.
 
 
-<img width="1916" height="987" alt="image12" src="https://github.com/user-attachments/assets/56b96f6e-8cfa-4017-84f5-5953bb1906bb" />
+<img width="1658" height="936" alt="image2 (1)" src="https://github.com/user-attachments/assets/44ca58a4-71af-4579-8e1d-b6d455ab7ef5" />
+
 
 
 **Note:** Periodically check the server IPs, as they may rotate. Due to the nature of FluxCloud, if a server experiences downtime, the Collector Node may be redeployed to a new server with a different IP address. If this happens, simply repeat the steps above to configure the wallet address and number of workers via the Timpi Collector Node GUI on the new IP.
@@ -159,7 +161,8 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
    * Click **Compute Update Message**.
 
-<img width="1916" height="984" alt="image13" src="https://github.com/user-attachments/assets/13906983-34ca-483e-83a5-c59d8b54acb3" />
+<img width="1916" height="988" alt="image11" src="https://github.com/user-attachments/assets/dd1c6010-6b0a-4bf5-9b75-4dc539665386" />
+
 
 4. **Sign the Update Message**
 
@@ -171,7 +174,8 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
    * Once the **Signature** field auto-fills, click **Update Application**.
 
-<img width="1606" height="932" alt="image14" src="https://github.com/user-attachments/assets/181f71aa-ba2c-4b04-8ee7-63625f2fec3f" />
+<img width="1916" height="990" alt="image6" src="https://github.com/user-attachments/assets/74fba599-0207-4d7d-a52b-1fc2f9444351" />
+
 
 5. **Complete Payment**
 
@@ -189,7 +193,8 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
    * Your **TimpiCollector** node’s subscription period will update, typically within **10–30 minutes**.
 
-<img width="1602" height="932" alt="image15" src="https://github.com/user-attachments/assets/9e973442-06e1-484a-ba07-8733a7e54b41" />
+<img width="1916" height="985" alt="image22" src="https://github.com/user-attachments/assets/97613910-a2ba-47a4-8777-3fa7bb5fff21" />
+
 
 ---
 
@@ -201,11 +206,13 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
 2. Sign in or sign up
 
-<img width="1918" height="989" alt="image16" src="https://github.com/user-attachments/assets/0faeac86-a444-4f43-abf5-bf5f8a18d02b" />
+<img width="1916" height="987" alt="image12" src="https://github.com/user-attachments/assets/c48a6647-940d-4b32-b284-bccc24733bdd" />
+
 
 3. Navigate to the **Account Overview** using the left handed menu to deposit funds. We support PayPal, Credit Cards, or Flux. If you deposit via Flux you will receive a 5% bonus.
 
-<img width="1917" height="987" alt="image17" src="https://github.com/user-attachments/assets/5ccee0c7-9275-45b6-964a-b3f3b34dca83" />
+<img width="1606" height="932" alt="image14" src="https://github.com/user-attachments/assets/9e4c56b8-8dbe-4380-8339-0be696dc5bf2" />
+
 
 4. Once your account is funded, click **Deploy App**, and on **Explore All Templates** at the Quick launch section.
 
@@ -213,7 +220,8 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
 6. Read the README if you want to learn more about how the application works. Continue the deployment process by clicking on the **Builder** tab or **Continue** button to configure your application specifications.
 
-<img width="1919" height="989" alt="image18" src="https://github.com/user-attachments/assets/7c43ac25-6052-49e6-b7c9-018d92aaaeb2" />
+<img width="1602" height="932" alt="image15" src="https://github.com/user-attachments/assets/418249c4-25fa-422f-87ba-2fa63c7a61ea" />
+
 
 7. At **Environment Variables** enter both a **NAME** (min. 17 characters), and your **GUID** ([https://timpi.com/node/register](https://timpi.com/node/register))
 
@@ -221,15 +229,18 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
 8. Adjust the resources as needed (or keep recommended)
 
-<img width="1919" height="987" alt="image19" src="https://github.com/user-attachments/assets/2a8eaaaa-ac38-458a-9138-cfb911259371" />
+<img width="1609" height="933" alt="image9" src="https://github.com/user-attachments/assets/6011c5b7-ba7b-4421-8a45-c31219680c26" />
+
 
 9. Click the **Rent Machine** button to choose the machine you want to deploy your Timpi Synaptron node on. You can use filters like GPU model, location, or price range, or even **Advanced Filter** (RAM, storage, etc.) to choose a machine. You can also click a **Machine ID** to view details & reviews
 
-<img width="1916" height="988" alt="image20" src="https://github.com/user-attachments/assets/bddc9881-8684-434e-b2c4-b29f9c633836" />
+<img width="1599" height="934" alt="image8" src="https://github.com/user-attachments/assets/07be5908-f10b-40a8-b7a0-b5227a3fb11e" />
+
 
 13. Select the machine you want to rent and then click the **Rent** button, and confirm the deployment in the popup.
 
-<img width="1040" height="771" alt="image21" src="https://github.com/user-attachments/assets/046a4aac-b039-404d-852f-b4cdc38933ca" />
+<img width="1040" height="771" alt="image21" src="https://github.com/user-attachments/assets/e7541468-b19a-4731-9d96-1a64f8e03ca8" />
+
 
 You will get forwarded to your Synaptron Node deployment overview, where you will have access to all the necessary information of your application, like 
 
@@ -239,7 +250,8 @@ You will get forwarded to your Synaptron Node deployment overview, where you wil
 
 * Monitor events
 
-<img width="1916" height="985" alt="image22" src="https://github.com/user-attachments/assets/3ed45f5e-8ecf-4200-91c6-db2c58293431" />
+<img width="1595" height="938" alt="image1" src="https://github.com/user-attachments/assets/59896e32-5d17-47ce-b345-bcff562cbe97" />
+
 
 ---
 
@@ -261,8 +273,10 @@ Follow the steps below to get started:
 
 6. In the newly opened tab, click the **Settings icon**. Then enter your **Timpi Wallet address** (must hold a Timpi NFT), and set the Number **of Workers** from 1 to 5, and save it by clicking the **Save** button
 
-<img width="1916" height="988" alt="image11" src="https://github.com/user-attachments/assets/daba67c9-88b6-41b7-8eea-0e2572d2bfb8" />
+<img width="1558" height="938" alt="image5 (1)" src="https://github.com/user-attachments/assets/7ee5798e-7b8e-4915-b45d-2cb9d529dfcf" />
+
 
 7. Go back to the **Collector tab** in the header. Your node should now begin **indexing pages**
 
-<img width="1916" height="987" alt="image12" src="https://github.com/user-attachments/assets/d0bc831e-b3db-49de-92ac-b0f561e49623" />
+<img width="1658" height="936" alt="image2 (1)" src="https://github.com/user-attachments/assets/b86e19fd-7d37-417c-a581-ce3c16b82d4c" />
+
