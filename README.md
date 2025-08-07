@@ -71,7 +71,7 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
 * 
 
-8. Choose the payment method you want to use to pay for this app. We support **Stripe** (Card), **PayPal**, and **Flux**. Paying in Flux gives a 5% discount.
+8. "Choose the payment method you want to use to pay for this app. FluxCloud supports Stripe (Card), PayPal, and Flux. Paying in Flux gives a 5% discount."
 
 <img width="1918" height="989" alt="image4" src="https://github.com/user-attachments/assets/1e9c0ec0-8a80-44ee-9bb1-fb6efe0e4ebd" />
 
