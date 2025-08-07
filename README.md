@@ -24,11 +24,13 @@ This guide covers two separate methods for deploying Timpi Nodes:
 
    * Zelcore / SSP / MetaMask / other Web3 wallets
 
-![][image1]
+<img width="1919" height="989" alt="image7" src="https://github.com/user-attachments/assets/27a010ce-74a9-473b-9080-5125ed2991d5" />
+
 
 3. From the left-hand menu, go to **Applications → Marketplace**.**Search** for **TimpiCollector** or **TimpiGeoCore** and click on the desired app.
 
-**![][image2]**
+<img width="1918" height="984" alt="image3" src="https://github.com/user-attachments/assets/025047db-a6ac-4d7b-9830-2baeae5b2480" />
+
 
 4. **App Configuration**  
    * TimpiCollector  
